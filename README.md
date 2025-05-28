@@ -12,12 +12,15 @@ A simple yet powerful color palette generator built with **Next.js**, **TypeScri
 
 ## 📁 Project Structure
 
-├── app/ # App Router (Next.js 13+)
-│ └── generate/ # Palette generator page
-├── components/ # Reusable React components
-├── utils/ # Utility functions (e.g., generatePalette)
-├── styles/ # (Optional) Global styles if used
-├── public/ # Static assets
+```
+├── app/               # App Router (Next.js 13+)
+│ └── generate/        # Palette generator page
+├── components/        # Reusable React components
+├── utils/             # Utility functions (e.g., generatePalette)
+├── styles/            # (Optional) Global styles if used
+├── public/            # Static assets
+```
+
 
 ## 🛠️ Tech Stack
 
